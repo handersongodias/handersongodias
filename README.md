@@ -18,7 +18,8 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=handersongodias&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-#  🛠 Projeto recente concluído
+#  🛠 Projetos recentes concluídos
+
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -29,5 +30,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=github&logoColor=white)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=handersongodias&repo=projetoadamodulo5&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+
+![GODOT](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=handersongodias&repo=dio_projeto_jogo2d_godot&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handersongodias&label=Profile%20views&color=0e75b6&style=flat" alt="handersongodias" /> </p>
