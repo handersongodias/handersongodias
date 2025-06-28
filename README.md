@@ -28,11 +28,16 @@
 ![Terraforn](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft-Azure-Cloud)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=handersongodias&repo=projetoadamodulo5&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/handersongodias/ProjetoModulo5ADA)
 
 ![GODOT](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=handersongodias&repo=dio_projeto_jogo2d_godot&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/handersongodias/dio_projeto_jogo2d_godot)
+
+![Flutter](https://img.shields.io/badge/Flutter-App-blue?style=for-the-badge&logo=flutter)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=handersongodias&repo=etg_flutter&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/handersongodias/etg_flutter)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handersongodias&label=Profile%20views&color=0e75b6&style=flat" alt="handersongodias" /> </p>
