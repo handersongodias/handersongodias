@@ -36,7 +36,9 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=handersongodias&repo=dio_projeto_jogo2d_godot&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/handersongodias/dio_projeto_jogo2d_godot)
 
-![Flutter](https://img.shields.io/badge/Flutter-App-blue?style=for-the-badge&logo=flutter)
+![Flutter](https://img.shields.io/badge/Flutter-App-blue?style=for-the-badge&logo=flutter) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=handersongodias&repo=etg_flutter&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/handersongodias/etg_flutter)
 
 
